@@ -1,0 +1,19 @@
+.instruction {
+  font-family: Amaranth;
+  font-size: 1.3em;
+}
+
+.code {
+  font-family: 'Fira Mono';
+  color: red;
+}
+
+.script {
+  font-family: 'Euphoria Script';
+}
+
+body {
+  background-image: url('../images/background-04.jpg');
+  background-size: cover;
+  width: 700px;
+}
